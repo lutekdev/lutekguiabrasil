@@ -70,12 +70,18 @@
 ──────────────────────────────────────────────
 
 ## 📚 Índice ou Súmario
-[⛏️ PocketMine (Minecraft)](https://github.com/lutekdev/lutekguiabrasil/tree/master#%EF%B8%8F-pocketmine-minecraft)
+• [⛏️ PocketMine (Minecraft)](https://github.com/lutekdev/lutekguiabrasil/tree/master#%EF%B8%8F-pocketmine-minecraft)
 
 ──────────────────────────────────────────────
 
 ## ⛏️ PocketMine (Minecraft)
 
 ## 📖 Sua Historia:
+
+> PocketMine-MP é um servidor de Minecraft: Pocket Edition de código aberto, desenvolvido em PHP. Foi iniciado por Shoghi Cervantes em 2011 e desde então se tornou uma ferramenta popular entre os jogadores e desenvolvedores de Minecraft.
+
+> O objetivo principal de PocketMine foi oferecer uma plataforma onde a comunidade poderia criar e compartilhar suas próprias características e funcionalidades para o Minecraft: Pocket Edition. Como resultado, tem sido fundamental na criação de milhares de plug-ins que aprimoram a experiência de jogo.
+
+> Ao longo dos anos, PocketMine passou por muitas atualizações e revisões para manter-se atualizado com as versões mais recentes do Minecraft: Pocket Edition. Apesar dos desafios, a comunidade continua ativa e em crescimento, com muitos desenvolvedores contribuindo para o seu desenvolvimento contínuo.
 
 ──────────────────────────────────────────────
