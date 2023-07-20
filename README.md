@@ -68,9 +68,14 @@
 - **Espalhe a palavra:** Compartilhe o repositório com a sua comunidade, amigos e colegas. Quanto mais pessoas souberem sobre ele, mais podemos crescer juntos!
 
 ──────────────────────────────────────────────
+
 ## 📚 Índice ou Súmario
 [PocketMine (Minecraft)](https://github.com/lutekdev/lutekguiabrasil/tree/master#%EF%B8%8F-pocketmine-minecraft)
+
 ──────────────────────────────────────────────
+
 ## ⛏️ PocketMine (Minecraft)
 
 ## 📖 Sua Historia:
+
+──────────────────────────────────────────────
