@@ -25,7 +25,7 @@
 
 - [Clique aqui e mostre seu apoio com uma doação! 💓](https://beacons.ai/doacoeslutekguiabrasil)
 
-> Temos várias maneiras disponíveis para você contribuir, incluindo PayPal, PagSeguro, Mercado Pago, Buy Me A Coffee, Pic Pay e Pix. Nenhum valor é insignificante - todas as contribuições são imensamente valorizadas e utilizadas com total responsabilidade e transparência. 
+> Temos várias maneiras disponíveis para você contribuir, incluindo PayPal, PagSeguro, Mercado Pago, Pic Pay e Pix. Nenhum valor é insignificante - todas as contribuições são imensamente valorizadas e utilizadas com total responsabilidade e transparência. 
 
 > Um enorme agradecimento a todos que já contribuíram. A generosidade de vocês nos impulsiona a continuar compartilhando o conhecimento com a comunidade de desenvolvimento. 
 
