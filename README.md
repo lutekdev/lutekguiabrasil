@@ -1,2 +1,6 @@
-# lutekguiabrasil
-Bem-vindo ao LutekGuiaBrasil! Este é um repositório focado em ajudar desenvolvedores iniciantes através de exemplos de códigos, tutoriais e recursos. Nosso objetivo é facilitar a aprendizagem e incentivar a contribuição para a comunidade LutekDev.
+<p align="center">
+  <a href="https://github.com/lutekdev/lutekguiabrasil">
+    <img src="./images/lutekguiabrasil.png" alt="Lutek Guia Brasil" width="160" height="160">
+  </a>
+  <h1 align="center">Guia Extenso de Programação</h1>
+</p>
