@@ -5,7 +5,7 @@
   <h1 align="center">O Mapa do Programador: O Guia Descomplicado </h1>
 </p>
 
-────────────────────────────────────────────────────────
+──────────────────────────────────────────────
 ## 🤯 O guia para alavancar seu conhecimento!!
 
 > Abaixo, você encontrará códigos organizados por categoria e também links para visualizar códigos prontos para copiar e colar. Meu objetivo é manter tudo organizado em seções específicas, com um sumário para facilitar a sua navegação. Este repositório tem como propósito ser um guia para ajudar você a se tornar um desenvolvedor especializado em qualquer área de TI. Caso você já atue como desenvolvedor ou em outra área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, possíveis caminhos a seguir e as tecnologias para incorporar na sua stack, com foco em se manter atualizado e diferenciado em front-end, back-end, dentre outras áreas.
@@ -17,7 +17,7 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@lutekdev7012)
 </sub>
 
-────────────────────────────────────────────────────────
+──────────────────────────────────────────────
 
 ## 💌 Doações
 
@@ -31,7 +31,7 @@
 
 > Seu apoio faz uma diferença enorme para nós! Juntos, vamos continuar a fortalecer nossa comunidade de desenvolvedores. Obrigado por considerar o apoio ao nosso projeto!
 
-────────────────────────────────────────────────────────
+──────────────────────────────────────────────
 
 ## ⚠️ Aviso importante
 
@@ -45,19 +45,19 @@
 
 > Lembre-se, o crescimento deste repositório depende da comunidade que o rodeia. Sua participação faz toda a diferença e é imensamente apreciada. Obrigado por estar aqui e fazer parte desta jornada conosco!
 
-────────────────────────────────────────────────────────
+──────────────────────────────────────────────
 
 ## 💡 Meu Objetivo com esse Repositorio
 
 > O objetivo principal deste repositório é criar um hub de conhecimento para desenvolvedores de todos os níveis. Quero que seja um lugar onde os iniciantes possam aprender os fundamentos da programação, onde os desenvolvedores intermediários possam aperfeiçoar suas habilidades e onde os profissionais experientes possam descobrir novas ferramentas e tecnologias. Quero que este repositório inspire, eduque e capacite você para alcançar seus objetivos de carreira, seja você um estudante, um hobbyista ou um veterano da indústria. Juntos, podemos criar uma comunidade de desenvolvedores mais forte, mais experiente e mais inclusiva.
 
-────────────────────────────────────────────────────────
+──────────────────────────────────────────────
 
 ## :beginner: Para quem está começando agora
 
 > Se você é um iniciante em programação, não se preocupe! Este repositório foi criado com você em mente. Aqui, você encontrará códigos e recursos simples e claros que te ajudarão a entender os fundamentos da programação. Acredito que a melhor maneira de aprender é fazendo, então, sinta-se à vontade para copiar, colar e modificar os códigos conforme desejar. E lembre-se, a jornada para se tornar um grande desenvolvedor começa com um único passo. Bem-vindo ao maravilhoso mundo da programação!
 
-────────────────────────────────────────────────────────
+──────────────────────────────────────────────
 
 ## 🚨 Faça Parte Deste Projeto
 
@@ -67,5 +67,5 @@
 - **Traga suas ideias:** Use a seção Issues para sugerir novas ideias e discutir possíveis melhorias para o projeto.
 - **Espalhe a palavra:** Compartilhe o repositório com a sua comunidade, amigos e colegas. Quanto mais pessoas souberem sobre ele, mais podemos crescer juntos!
 
-────────────────────────────────────────────────────────────────────────────────
+──────────────────────────────────────────────
 ## 📚 Índice ou Súmario
