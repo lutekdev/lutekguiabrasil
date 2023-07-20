@@ -15,3 +15,11 @@
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JNFzQu7Gy7)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@lutekdev7012)
 </sub>
+
+## 💌 Doações
+
+> Olá! Se você chegou até aqui, já deve conhecer o nosso tesouro de códigos no GitHub, onde compartilhamos conteúdo de qualidade para programadores aprimorarem suas habilidades - tudo de graça! E, se você está pensando: "Como posso ajudar a manter este projeto incrível vivo?" Aqui está a resposta.
+
+- [Clique aqui e mostre seu apoio com uma doação! 💓](https://beacons.ai/doacoeslutekguiabrasil)
+
+> Existem várias maneiras de contribuir, incluindo PayPal, PagSeguro, Mercado Pago, Buy Me A Coffee, Pic Pay e Pix. Nenhum valor é pequeno, todas as contribuições são altamente valorizadas e usadas com total responsabilidade e transparência. Seu apoio significa o mundo para nós! Vamos continuar compartilhando conhecimento e fortalecendo nossa comunidade de desenvolvedores, porque juntos somos mais fortes. Obrigado por considerar apoiar nosso projeto!
