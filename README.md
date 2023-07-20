@@ -41,7 +41,7 @@
 
 - **Conecte-se:** Me siga no [Github](https://github.com/lutekdev). Não é apenas uma maneira de se manter atualizado com este projeto, mas também uma forma de apoiar o crescimento desta plataforma de conhecimento.
 
-- **Compartilhe suas ideias:** Mande feedbacks no [Discord](https://discord.gg/JNFzQu7Gy). Seus pensamentos e experiências são inestimáveis para mim e para a comunidade. Seja uma crítica construtiva, uma sugestão de melhoria ou mesmo um elogio, gostaria de ouvir de você!
+- **Compartilhe suas ideias:** Mande feedbacks no [Discord](https://discord.gg/JNFzQu7Gy7). Seus pensamentos e experiências são inestimáveis para mim e para a comunidade. Seja uma crítica construtiva, uma sugestão de melhoria ou mesmo um elogio, gostaria de ouvir de você!
 
 > Lembre-se, o crescimento deste repositório depende da comunidade que o rodeia. Sua participação faz toda a diferença e é imensamente apreciada. Obrigado por estar aqui e fazer parte desta jornada conosco!
 
