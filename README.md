@@ -12,9 +12,9 @@
 
 <sub> <strong>Siga nas redes sociais para acompanhar mais conteúdos: </strong> <br>
 [<img src = "https://tinyurl.com/5n8fh9mk">](https://github.com/lutekdev)
-[<img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/lutekdev)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JNFzQu7Gy7)
-[![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@lutekdev7012)
+[<img src = "https://tinyurl.com/2p92um4j">](https://twitter.com/lutekdev)
+[![Discord Badge](https://tinyurl.com/26cyujk5)](https://discord.gg/JNFzQu7Gy7)
+[![Youtube Badge](https://tinyurl.com/5n8b6are)](https://youtube.com/@lutekdev7012)
 </sub>
 
 ──────────────────────────────────────────────
