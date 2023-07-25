@@ -7,7 +7,7 @@
 
 ---
 
-## 📚 Índice ou Súmario
+## 📚 Guia de Navegação
 • [📚 Aprendendo GitHub do Zero!](https://tinyurl.com/ycx26jn8)<br>
 • [⚒️ Dominando PocketMine (Minecraft)!](https://tinyurl.com/ny25htwf)
 
@@ -98,6 +98,8 @@
   </a>
 </p>
 
+---
+
 ## ⚒️ Dominando PocketMine (Minecraft)!
 
 ## 📖 Sua Historia:
@@ -118,4 +120,5 @@
     <img src="https://tinyurl.com/27r6rc4t">
   </a>
 </p>
+
 ---
