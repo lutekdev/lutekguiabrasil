@@ -92,7 +92,11 @@
 🤯 Pronto para decolar? 
 
 🚀 Embarque nessa jornada pelo universo do GitHub, clicando no botão abaixo!<br>
-[<img src = "https://tinyurl.com/3nxtedt3">](https://tinyurl.com/3n64y8fa)<br>
+<p align="center">
+  <a href="https://tinyurl.com/3n64y8fa">
+    <img src="https://tinyurl.com/3nxtedt3">
+  </a>
+</p>
 
 ## ⚒️ Dominando PocketMine (Minecraft)!
 
