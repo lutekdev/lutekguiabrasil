@@ -110,7 +110,7 @@
 
 ⛏️ Pegue seu capacete de mineração virtual, sua picareta digital e prepare-se para explorar o mundo subterrâneo do desenvolvimento do Minecraft! 🎮👾 
 
-Comece sua aventura de codificação no Minecraft agora mesmo, clicando no botão abaixo!
+🥳 Comece sua aventura de codificação no Minecraft agora mesmo, clicando no botão abaixo!
 <p align="center">
   <a href="https://tinyurl.com/2zvrfpt3">
     <img src="https://tinyurl.com/27r6rc4t">
