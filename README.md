@@ -70,8 +70,8 @@
 ──────────────────────────────────────────────
 
 ## 📚 Índice ou Súmario
-• [💻 GitHub Para quem está começando!]()<br>
-• [⛏️ PocketMine (Minecraft)](https://github.com/lutekdev/lutekguiabrasil/tree/master#%EF%B8%8F-pocketmine-minecraft)
+• [📚 Aprendendo GitHub do Zero!]()<br>
+• [⚒️ Dominando PocketMine (Minecraft)!](https://github.com/lutekdev/lutekguiabrasil/tree/master#%EF%B8%8F-pocketmine-minecraft)
 
 ──────────────────────────────────────────────
 
