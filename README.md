@@ -92,7 +92,7 @@
 🚀 Embarque nessa jornada pelo universo do GitHub, clicando no botão abaixo!<br>
 <p align="center">
   <a href="https://tinyurl.com/3n64y8fa">
-    <img src="https://tinyurl.com/3nxtedt3">
+    <img src="https://tinyurl.com/yscuyw8y">
   </a>
 </p>
 
