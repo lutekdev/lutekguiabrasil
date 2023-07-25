@@ -87,9 +87,7 @@
 > 
 > Hoje, o GitHub é a maior plataforma de hospedagem de código do mundo, com mais de 40 milhões de usuários e mais de 100 milhões de repositórios.
 
-😬 Está pronto para mergulhar no mundo fascinante do GitHub? Prepare-se para uma aventura repleta de commits, pull requests e muito mais! 
-
-🤯 Pronto para decolar? 
+😬 Está pronto para mergulhar no mundo fascinante do GitHub? Prepare-se para uma aventura repleta de commits, pull requests e muito mais, pronto para decolar? 
 
 🚀 Embarque nessa jornada pelo universo do GitHub, clicando no botão abaixo!<br>
 <p align="center">
@@ -112,5 +110,10 @@
 
 ⛏️ Pegue seu capacete de mineração virtual, sua picareta digital e prepare-se para explorar o mundo subterrâneo do desenvolvimento do Minecraft! 🎮👾 
 
-(Clique aqui)[https://github.com/lutekdev/lutekguiabrasil/blob/master/estudos/pocketmine/README.md] e comece sua aventura de codificação no Minecraft agora mesmo!
+Comece sua aventura de codificação no Minecraft agora mesmo, clicando no botão abaixo!
+<p align="center">
+  <a href="https://tinyurl.com/3sktvkwr">
+    <img src="https://tinyurl.com/2zvrfpt3">
+  </a>
+</p>
 ──────────────────────────────────────────────
