@@ -113,7 +113,7 @@
 Comece sua aventura de codificação no Minecraft agora mesmo, clicando no botão abaixo!
 <p align="center">
   <a href="https://tinyurl.com/2zvrfpt3">
-    <img src="https://tinyurl.com/3sktvkwr">
+    <img src="https://tinyurl.com/4ncuv6p8">
   </a>
 </p>
 ──────────────────────────────────────────────
