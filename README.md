@@ -87,7 +87,11 @@
 > 
 > Hoje, o GitHub é a maior plataforma de hospedagem de código do mundo, com mais de 40 milhões de usuários e mais de 100 milhões de repositórios.
 
-### Criando seu Primeiro Repositório
+😬 Está pronto para mergulhar no mundo fascinante do GitHub? Prepare-se para uma aventura repleta de commits, pull requests e muito mais! 
+
+🤯 Pronto para decolar? 
+
+🚀 (Clique Aqui)[https://github.com/lutekdev/lutekguiabrasil/blob/master/estudos/github/README.md] e embarque nessa jornada pelo universo do GitHub!
 
 ## ⚒️ Dominando PocketMine (Minecraft)!
 
@@ -99,4 +103,9 @@
 
 > Ao longo dos anos, PocketMine passou por muitas atualizações e revisões para manter-se atualizado com as versões mais recentes do Minecraft: Pocket Edition. Apesar dos desafios, a comunidade continua ativa e em crescimento, com muitos desenvolvedores contribuindo para o seu desenvolvimento contínuo.
 
+⏳ Já imaginou criar seu próprio mundo no Minecraft com PocketMine? 
+
+⛏️ Pegue seu capacete de mineração virtual, sua picareta digital e prepare-se para explorar o mundo subterrâneo do desenvolvimento do Minecraft! 🎮👾 
+
+(Clique aqui)[] e comece sua aventura de codificação no Minecraft agora mesmo!
 ──────────────────────────────────────────────
