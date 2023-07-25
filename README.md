@@ -112,7 +112,7 @@
 
 ⏳ Já imaginou criar seu próprio mundo no Minecraft com PocketMine? 
 
-⛏️ Pegue seu capacete de mineração virtual, sua picareta digital e prepare-se para explorar o mundo subterrâneo do desenvolvimento do Minecraft! 🎮👾 
+⛏️ Pegue seu capacete de mineração virtual, sua picareta digital e prepare-se para explorar o mundo subterrâneo do desenvolvimento do Minecraft!
 
 🥳 Comece sua aventura de codificação no Minecraft agora mesmo, clicando no botão abaixo!
 <p align="center">
