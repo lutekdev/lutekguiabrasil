@@ -6,6 +6,13 @@
 </p>
 
 ──────────────────────────────────────────────
+
+## 📚 Índice ou Súmario
+• [📚 Aprendendo GitHub do Zero!](https://tinyurl.com/ycx26jn8)<br>
+• [⚒️ Dominando PocketMine (Minecraft)!](https://tinyurl.com/ny25htwf)
+
+──────────────────────────────────────────────
+
 ## 🤯 O guia para alavancar seu conhecimento!!
 
 > Abaixo, você encontrará códigos organizados por categoria e também links para visualizar códigos prontos para copiar e colar. Meu objetivo é manter tudo organizado em seções específicas, com um sumário para facilitar a sua navegação. Este repositório tem como propósito ser um guia para ajudar você a se tornar um desenvolvedor especializado em qualquer área de TI. Caso você já atue como desenvolvedor ou em outra área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, possíveis caminhos a seguir e as tecnologias para incorporar na sua stack, com foco em se manter atualizado e diferenciado em front-end, back-end, dentre outras áreas.
@@ -69,11 +76,6 @@
 
 ──────────────────────────────────────────────
 
-## 📚 Índice ou Súmario
-• [📚 Aprendendo GitHub do Zero!](https://tinyurl.com/ycx26jn8)<br>
-• [⚒️ Dominando PocketMine (Minecraft)!](https://tinyurl.com/ny25htwf)
-
-──────────────────────────────────────────────
 ## 📚 Aprendendo GitHub do Zero!
 
 ### 🧠 Entendendo sobre o GitHub...
