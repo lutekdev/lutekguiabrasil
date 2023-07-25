@@ -107,5 +107,5 @@
 
 ⛏️ Pegue seu capacete de mineração virtual, sua picareta digital e prepare-se para explorar o mundo subterrâneo do desenvolvimento do Minecraft! 🎮👾 
 
-(Clique aqui)[] e comece sua aventura de codificação no Minecraft agora mesmo!
+(Clique aqui)[https://github.com/lutekdev/lutekguiabrasil/blob/master/estudos/pocketmine/README.md] e comece sua aventura de codificação no Minecraft agora mesmo!
 ──────────────────────────────────────────────
