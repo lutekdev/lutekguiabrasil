@@ -74,8 +74,19 @@
 • [⚒️ Dominando PocketMine (Minecraft)!](https://github.com/lutekdev/lutekguiabrasil/tree/master#%EF%B8%8F-pocketmine-minecraft)
 
 ──────────────────────────────────────────────
+## 📚 Aprendendo GitHub do Zero!
 
-## ⛏️ PocketMine (Minecraft)
+> O GitHub foi lançado em 2008 por Chris Wanstrath, PJ Hyett e Tom Preston-Werner. A ideia por trás do GitHub era criar uma plataforma que facilitasse o compartilhamento de código e a colaboração entre os desenvolvedores. A plataforma foi construída em torno do Git, um sistema de controle de versão distribuído criado por Linus Torvalds, o criador do Linux.
+> 
+> O Git permite que os desenvolvedores "clone" um repositório, ou seja, criem uma cópia completa de todo o histórico de um projeto em seu computador local. Eles podem então fazer alterações nesse repositório - adicionando novos arquivos, modificando arquivos existentes, etc. - e criar um "commit", que é essencialmente um registro dessas alterações.
+> 
+> Uma vez que as alterações estão prontas para serem compartilhadas com os outros, elas podem ser "empurradas" de volta para o repositório original. Se eles não têm permissão para fazer isso, eles podem criar um "pull request", que é uma proposta para que suas alterações sejam mescladas de volta ao repositório original.
+> 
+> O GitHub adiciona a esse fluxo de trabalho básico do Git uma série de recursos que facilitam a colaboração. Por exemplo, ele fornece uma interface de usuário web para navegar em repositórios e históricos de commits, ferramentas para discutir e revisar pull requests, integração com várias ferramentas externas, e muito mais.
+> 
+> Hoje, o GitHub é a maior plataforma de hospedagem de código do mundo, com mais de 40 milhões de usuários e mais de 100 milhões de repositórios.
+
+## ⚒️ Dominando PocketMine (Minecraft)!
 
 ## 📖 Sua Historia:
 
