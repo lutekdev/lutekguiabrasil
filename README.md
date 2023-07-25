@@ -76,6 +76,7 @@
 ──────────────────────────────────────────────
 ## 📚 Aprendendo GitHub do Zero!
 
+## 🧠 Entendendo sobre o GitHub...
 > O GitHub foi lançado em 2008 por Chris Wanstrath, PJ Hyett e Tom Preston-Werner. A ideia por trás do GitHub era criar uma plataforma que facilitasse o compartilhamento de código e a colaboração entre os desenvolvedores. A plataforma foi construída em torno do Git, um sistema de controle de versão distribuído criado por Linus Torvalds, o criador do Linux.
 > 
 > O Git permite que os desenvolvedores "clone" um repositório, ou seja, criem uma cópia completa de todo o histórico de um projeto em seu computador local. Eles podem então fazer alterações nesse repositório - adicionando novos arquivos, modificando arquivos existentes, etc. - e criar um "commit", que é essencialmente um registro dessas alterações.
