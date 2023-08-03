@@ -3,6 +3,6 @@
 
 > A linguagem de programção que iremos utilizar nessa aplicação é a `JavaScript`, aconselho que tenha pelo menos o básico de conhecimento sobre a linguagem!
 
-## Começando
+## • Começando
 
 ### Criando sua primeira instância
