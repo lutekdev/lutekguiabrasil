@@ -4,5 +4,4 @@
 > A linguagem de programção que iremos utilizar nessa aplicação é a `JavaScript`, aconselho que tenha pelo menos o básico de conhecimento sobre a linguagem!
 
 ## • Começando
-
-### Criando sua primeira instância
+> Criando sua primeira instância
