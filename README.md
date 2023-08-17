@@ -9,7 +9,7 @@
 
 ## 📚 Guia de Navegação
 • [📚 Aprendendo GitHub do Zero!](https://tinyurl.com/ycx26jn8)<br>
-• [⚒️ Dominando PocketMine (Minecraft)!](https://tinyurl.com/ny25htwf)
+• [⚒️ Dominando PocketMine (Minecraft)!](https://tinyurl.com/ny25htwf)<br>
 • [👨🏻‍💻 Programas Seguros e Completo!](https://tinyurl.com/yupxa5x5)
 
 ---
