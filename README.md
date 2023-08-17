@@ -136,7 +136,7 @@
 🔗 Explore nossa coleção agora clicando no botão abaixo:
 
 <p align="center">
-  <a href="https://seu-link-aqui">
+  <a href="https://tinyurl.com/lutekguiabrasil-programas">
     <img src="https://tinyurl.com/27r6rc4t">
   </a>
 </p>
