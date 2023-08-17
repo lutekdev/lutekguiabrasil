@@ -121,6 +121,8 @@
   </a>
 </p>
 
+---
+
 ## 👨🏻‍💻 Programas Seguros e Completo!
 
 > Explore uma coleção de softwares poderosos e completos que podem melhorar a sua experiência digital. Estes softwares são conhecidos por suas funcionalidades abrangentes e segurança confiável, proporcionando soluções úteis para diversas necessidades.
